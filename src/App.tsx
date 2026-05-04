@@ -51,14 +51,6 @@ export default function App() {
     tech: ["React", "Supabase"],
     link: "#",
   },
-  {
-    title: "Social Media Design Pack",
-    category: "Graphic Design",
-    status: "Under Development",
-    description: "Instagram posts and stories for brand promotion.",
-    tech: ["Canva", "Figma"],
-    link: "#",
-  },
 ];
 
   const skills = [
