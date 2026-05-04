@@ -57,7 +57,7 @@ export default function App() {
     status: "Under Development",
     description: "Instagram posts and stories for brand promotion.",
     tech: ["Canva", "Figma"],
-    link: "#unavailable",
+    link: "#",
   },
 ];
 
